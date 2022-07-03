@@ -2,4 +2,4 @@ Base criada para realizar o tratamento das empresas listadas na B3, a fim de ele
 
 A utilização do modelo LOGIT servirá para atribuir pesos aos indicadores e classificar as empresas entre seus pares, atribuindo a elas um rating. 
 
-Tratamento realizado por: Felipe Caetano
+Tratamento realizado pela Diretoria de Operações
